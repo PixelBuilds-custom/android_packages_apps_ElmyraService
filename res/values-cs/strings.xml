@@ -15,11 +15,7 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Služba Active Edge</string>
-    <string name="settings_entry_title">Active Edge</string>
-    <string name="settings_entry_summary_on">Zap. / <xliff:g id="action" example="Take screenshot">%1$s</xliff:g></string>
     <string name="settings_entry_summary_off">Vypnuto</string>
-    <string name="settings_search_keywords">Active Edge, zmáčknutí, okraj, edge, gesto, asistence, asistent</string>
     <string name="setting_enabled_title">Akce při zmáčknutí telefonu</string>
     <string name="setting_enabled_summary">Chcete-li provést akci, zmáčkněte a uvolněte boky telefonu v dolní části</string>
     <string name="setting_sensitivity_title">Citlivost</string>

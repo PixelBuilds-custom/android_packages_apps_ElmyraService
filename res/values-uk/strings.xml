@@ -15,8 +15,25 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="settings_entry_summary_on">Увімкнено / <xliff:g id="action" example="Take screenshot">%1$s</xliff:g></string>
+    <string name="app_name">Сервіс Active Edge</string>
+    <string name="settings_entry_title">Активний край</string>
+    <string name="settings_entry_summary_on">Увімк / <xliff:g id="action" example="Take screenshot">%1$s</xliff:g></string>
+    <string name="settings_entry_summary_off">Вимк</string>
+    <string name="settings_search_keywords">Активний Край, стиснення, край, жест, допомога, помічник</string>
+    <string name="setting_enabled_title">Стисніть телефон, щоб виконати дію</string>
+    <string name="setting_enabled_summary">Щоб виконати дію, натисніть на грані телефону ближче до низу</string>
+    <string name="setting_sensitivity_title">Чутливість</string>
+    <string name="setting_sensitivity_light">Легке стискання</string>
+    <string name="setting_sensitivity_firm">Міцне стискання</string>
+    <string name="setting_screen_off_title">Дозволити коли дисплей вимкнено</string>
+    <string name="setting_screen_off_summary">Може збільшити хибні спрацьовування</string>
+    <string name="setting_screen_off_blocked_summary">Заблоковано поточною дією</string>
+    <string name="setting_action_title">При стисканні</string>
     <string name="action_screenshot_name">Зробити знімок екрана</string>
+    <string name="action_assistant_name">Відкрити асистента</string>
     <string name="action_camera_name">Відкрити камеру</string>
     <string name="action_power_menu_name">Відкрити меню живлення</string>
+    <string name="action_mute_name">Вимкнути звук дзвінків та сповіщень</string>
+    <string name="action_flashlight_name">Ліхтарик увімк/вимк</string>
+    <string name="action_screen_name">Екран увімк/вимк</string>
 </resources>
