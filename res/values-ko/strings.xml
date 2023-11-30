@@ -17,7 +17,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Active Edge 서비스</string>
     <string name="settings_entry_title">Active Edge</string>
-    <string name="settings_entry_summary_on">켜짐 / <xliff:g id="action" example="화면 캡처">%1$s</xliff:g></string>
     <string name="settings_entry_summary_off">꺼짐</string>
     <string name="settings_search_keywords">Active Edge, 쥐기, 엣지, 제스처, 조수, 어시스턴트, 도움</string>
     <string name="setting_enabled_title">기기 양쪽을 쥐어 작업 실행</string>
