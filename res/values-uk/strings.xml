@@ -26,7 +26,7 @@
     <string name="setting_sensitivity_light">Легке стискання</string>
     <string name="setting_sensitivity_firm">Міцне стискання</string>
     <string name="setting_screen_off_title">Дозволити коли дисплей вимкнено</string>
-    <string name="setting_screen_off_summary">Може збільшити кількість хибних спрацьовувувань</string>
+    <string name="setting_screen_off_summary">Може збільшити кількість хибних спрацьовувань</string>
     <string name="setting_screen_off_blocked_summary">Заблоковано поточною дією</string>
     <string name="setting_action_title">При стисканні</string>
     <string name="action_screenshot_name">Зробити знімок екрана</string>
